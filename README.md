@@ -100,7 +100,7 @@ footer{
     <h2>Personagens Relacionados ao Espectro</h2> 
     <p><b>Personagens Principais:</b></p>
     <ol> 
-     <li><a href="#e">Espectro</a><li>
+     <li><a href="#e">Espectro</a></li>
      <li id="x">X-tron</li> 
      <li>Mikasa</li> 
     </ol>
@@ -139,4 +139,5 @@ footer{
   <footer> 
    <p> <strong>© 2024 Universo Zônflux. Todos os direitos reservados.</strong> </p> 
   </footer> 
-</body></html>
+</body>
+</html>
