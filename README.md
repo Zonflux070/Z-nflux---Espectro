@@ -122,7 +122,7 @@ footer{
      <li>Dragon</li> 
      <li>Mestre Ynki</li> 
     </ol>
-    <h3>Personagens Secundárias:</h3>
+    <p>Personagens Secundárias:</p>
     <ol>
      <li>Mulimo</li> 
      <li>Jó Chum</li>
