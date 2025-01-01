@@ -3,9 +3,8 @@
  <head> 
   <meta charset="UTF-8"> 
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-  <title>Zônflux - Espectro</title>
-   <style>
-     body {
+  <title>Zônflux - Espectro</title> 
+ <style type="text/css" id="dcoder_stylesheet">body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
             margin: 0;
@@ -66,13 +65,11 @@ footer{
             line-height: 1.5;
             padding: 5px 10px;
             background-color: lightgray;
-}
-   </style>
- </head> 
+}</style></head> 
  <body> 
   <header> 
   <div id="D3">
-   <h1>Zônflux - Espectro</h1>
+   <h1 id="e">Zônflux - Espectro</h1>
   </div> 
    <div style="text-align: center;"> 
     <img src="https://img.freepik.com/vetores-gratis/desenho-animado-fofo-fantasma-mostrando-a-lingua_138676-2969.jpg" alt="Fantasma Cartoonizado" width="200" heigth="100" style="border: 4px solid seablue; border-radius: 50%;"> 
@@ -83,45 +80,58 @@ footer{
    <section> 
     <h2>Sobre o Espectro</h2> 
     <div class="borda"> 
-     <p> Espectro é uma IA criada apartir de uma Pedra Mística chamada <b> Emu </b> para proteger Telethra <b>(Zenus)</b> juntamente com o seu irmão <a href="#x">X-tron</a>. Espectro se torna um herói após destruir sua função inicial para impedir seu irmão de aniquilar a humanidade. </p> 
+     <p> Espectro é uma IA criada apartir de uma Pedra Mística chamada Emu para proteger Telethra juntamente com o seu irmão <a href="#x">X-tron</a>. Espectro se torna um herói após destruir sua função inicial para impedir seu irmão de aniquilar a humanidade. </p> 
      <p> <strong>Habilidade do Espectro: </strong> Espectro é uma IA implantada em um robô com a capacidade de se tornar inatingível. </p> 
     </div> 
    </section> 
    <section> 
     <h2>Álbum do Espectro</h2> 
     <div class="borda"> 
-        <img src="https://tse3.mm.bing.net/th?id=OIP.ZgX4av3Igg8th9at5EN5FQHaHa&pid=Api" alt="Fantasma Cartoon 1" width="100" height="100">
-        <img src="https://tse3.mm.bing.net/th?id=OIP.yHBS4zYUHcpuCaQwQ1mISwHaIB&pid=Api" alt="Fantasma Cartoon 2" width="100" height="100">
-        <img src="https://tse3.mm.bing.net/th?id=OIP.vnsrRU7T3ONOVHd5k0XA8wHaHa&pid=Api" alt="Fantasma Cartoon 3" width="100" height="100">
-        <img src="https://tse3.mm.bing.net/th?id=OIP.ZgX4av3Igg8th9at5EN5FQHaHa&pid=Api" alt="Fantasma Cartoon 4" width="100" height="100">
-        <img src="https://tse1.mm.bing.net/th?id=OIP.8AgkTdnAVAhXKx385CxHJAHaHa&pid=Api" alt="Fantasma Cartoon 5" width="100" height="100">
-        <img src="https://tse3.mm.bing.net/th?id=OIP.yHBS4zYUHcpuCaQwQ1mISwHaIB&pid=Api" alt="Fantasma Cartoon 2" width="100" height="100">
+        <img src="https://tse3.mm.bing.net/th?id=OIP.ZgX4av3Igg8th9at5EN5FQHaHa&amp;pid=Api" alt="Fantasma Cartoon 1" width="100" height="100">
+        <img src="https://tse3.mm.bing.net/th?id=OIP.yHBS4zYUHcpuCaQwQ1mISwHaIB&amp;pid=Api" alt="Fantasma Cartoon 2" width="100" height="100">
+        <img src="https://tse3.mm.bing.net/th?id=OIP.vnsrRU7T3ONOVHd5k0XA8wHaHa&amp;pid=Api" alt="Fantasma Cartoon 3" width="100" height="100">
+        <img src="https://tse3.mm.bing.net/th?id=OIP.ZgX4av3Igg8th9at5EN5FQHaHa&amp;pid=Api" alt="Fantasma Cartoon 4" width="100" height="100">
+        <img src="https://tse1.mm.bing.net/th?id=OIP.8AgkTdnAVAhXKx385CxHJAHaHa&amp;pid=Api" alt="Fantasma Cartoon 5" width="100" height="100">
+        <img src="https://tse3.mm.bing.net/th?id=OIP.yHBS4zYUHcpuCaQwQ1mISwHaIB&amp;pid=Api" alt="Fantasma Cartoon 2" width="100" height="100">
     </div> 
    </section> 
   <aside>
    <section> 
     <h2>Personagens Relacionados ao Espectro</h2> 
+    <p><b>Personagens Principais:</b></p>
     <ol> 
+     <li><a href="#e">Espectro</a><li>
      <li id="x">X-tron</li> 
      <li>Mikasa</li> 
-     <li>Sentinela</li> 
-     <li>Mulimo</li> 
+    </ol>
+    <p><b>Coadjuvantes:</b></p>
+    <ol>
+     <li>Motoqueiro</li> 
+     <li>Pedro Andrade</li> 
      <li>Daniel Carlos</li> 
      <li>André dos Reis</li> 
      <li>Suzana Luz</li> 
      <li>Coll</li> 
-     <li>Rice Man</li> 
-     <li>Pedro Andrade</li> 
-     <li>Rei Pedro IV</li> 
-     <li>Mutante</li> 
+    </ol>
+    <p><b>Vilões Principais:</b></p>
+    <ol>
+     <li>Cavaleiro</li> 
      <li>Negativo</li> 
+     <li>André Carlos</li> 
+     <li>Rei Pedro IV</li> 
      <li>Dragon</li> 
      <li>Mestre Ynki</li> 
-     <li>Cavaleiro</li> 
-     <li>Motoqueiro</li> 
+    </ol>
+    <h3>Personagens Secundárias:</h3>
+    <ol>
+     <li>Mulimo</li> 
+     <li>Jó Chum</li>
+     <li>Sentinela</li> 
+     <li>furtivo</li>
      <li>Green</li> 
-     <li>André Carlos</li> 
+     <li>Mutante</li> 
      <li>César Nilo</li> 
+     <li>Rice Man</li> 
     </ol> 
    </section> 
   </aside>
@@ -129,5 +139,4 @@ footer{
   <footer> 
    <p> <strong>© 2024 Universo Zônflux. Todos os direitos reservados.</strong> </p> 
   </footer> 
- </body>
-</html>
+</body></html>
