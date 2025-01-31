@@ -1,0 +1,27 @@
+const burger = document.querySelector('.burger');
+const navLinks = document.querySelector('.nav-links');
+const closeButton = document.querySelector('.close');
+const overlay = document.querySelector('.overlay');
+const body = document.body;
+
+
+burger.addEventListener('click', () => {
+  navLinks.classList.toggle('active');
+  burger.classList.toggle('active');
+  overlay.classList.toggle('active');
+  closeButton.classList.toggle('active');
+});
+
+closeButton.addEventListener('click', () => {
+  navLinks.classList.remove('active');
+  burger.classList.remove('active');
+  overlay.classList.remove('active');
+});
+
+body.addEventListener('click', (event) => {
+  if (!event.target.closest('.nav-links') && !event.target.closest('.burger')) {
+      navLinks.classList.remove('active');
+      burger.classList.remove('active');
+      overlay.classList.remove('active');
+  }
+});

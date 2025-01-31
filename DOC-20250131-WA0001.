@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Perfil do Espectro</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header>
+   <nav>
+    <div class="logo">
+      <div class="overlay"></div>
+      <img id="logflux" src="/Logotipo da Zônflux.jpg" alt="Zônflux">
+    </div>
+    <div class="nav-links">
+      <div class="close">
+        <button class="fenu">
+          <div class="fechar"></div>
+          <div class="fechar"></div>
+        </button>
+      </div>
+      <ul id="lista">
+        <li><a class="top" href="#">Pág 1</a></li>
+        <li><a class="top" href="#">Pág 2</a></li>
+        <li><a class="top" href="#">Pág 3</a></li>
+      </ul>
+    </div>
+    <div class="burger">
+      <div class="line"></div>
+      <div class="line"></div>
+      <div class="line"></div>
+    </div>
+  </nav>
+  </header>
+  
+  <main>
+  <section>
+    <div class="Omega">
+      <h1>Perfil</h1>
+      <p>Espectro: O Herói de Aço e Guardião de Telethra</p>
+    </div>
+    
+    <h2>Sobre Esprctro</h2>
+
+    <p>Espectro é um robô lendário, criado ao lado de seu irmão X-Tron através de uma pedra mistica chamada (Emu) com o propósito nobre de proteger os habitantes de Telethra. Juntos, eles representavam o auge da tecnologia e da esperança. No entanto, o conceito de proteção de X-Tron foi distorcido, transformando-o em uma ameaça catastrófica que colocaria todo o universo à beira do caos. <br /><br />Para salvar Telethra, Espectro foi forçado a tomar a decisão mais difícil de sua existência: confrontar e destruir seu próprio irmão. O ato o consagrou como um herói, mas também deixou uma marca indelével em sua essência. Mal sabia Espectro que essa batalha era apenas o prelúdio de desafios ainda maiores, e que o destino de Telethra continuaria a depender de sua força e sacrifício.</p>
+    <a id="meio" href="#">Everso</a>
+  </section>
+  <section>
+    <img id="Imaesp" src="/Homem Aranha branco.jpeg" alt="Espectro">
+  </section>
+  <section>
+    <h2>Detalhes</h2>
+    <p>
+      <b>Nome:</b><br />
+        Espectro <br /><br />
+      <b>Habilidade:</b><br />
+        Intangibilidade<br /><br />
+      <b>Localização</b><br />
+        Telethra 
+    </p>
+    <div class="sou">
+      <a href="#">
+        <img id="tridente" src="/Ícone tridente preto.jpeg" alt="ícone de X-tron">
+      </a>
+      <a href="#">
+        <img id="polvo" src="/Ícone polvo preto.jpeg" alt="ícone do Scott">
+      </a>
+    </div>
+  </section>
+  </main>
+  <footer>
+    <p id="agradecimento">A você, visitante, nosso mais sincero agradecimento por embarcar nesta jornada fascinante sobre o Espectro. Sua curiosidade e dedicação nos motivam a continuar explorando os mistérios deste universo tão único. Esperamos que cada secção lida tenha despertado sua imaginação e lhe oferecido momentos de reflexão e inspiração.</p>
+    <ul id="entre">
+      <li><a class="lose" href="#">Telethra</a></li>
+      <li><a class="lose" href="#">Emu</a></li>
+    </ul>
+    <p id="direitos">© 2025 Universo Zônflux. Todos os direitos reservados.</p>
+    <script type="text/javascript" src="main.js"></script>
+  </footer>
+</body>
+</html>
