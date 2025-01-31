@@ -72,7 +72,7 @@ footer{
    <h1 id="e">Zônflux - Espectro</h1>
   </div> 
    <div style="text-align: center;"> 
-    <img src="https://img.freepik.com/vetores-gratis/desenho-animado-fofo-fantasma-mostrando-a-lingua_138676-2969.jpg" alt="Fantasma Cartoonizado" width="200" heigth="100" style="border: 4px solid seablue; border-radius: 50%;"> 
+    <img src="https://private-user-images.githubusercontent.com/193246550/408624929-10566a05-c115-4dfc-b2db-e40f470de210.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgzMzgyOTYsIm5iZiI6MTczODMzNzk5NiwicGF0aCI6Ii8xOTMyNDY1NTAvNDA4NjI0OTI5LTEwNTY2YTA1LWMxMTUtNGRmYy1iMmRiLWU0MGY0NzBkZTIxMC5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDEzMSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTAxMzFUMTUzOTU2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9Y2RjMTZmZmUzZjcxYzM5ZjVjNWY2OWE1MTViZjM0YzU4YzM1NzU0MjhiYWUwZWNmZTRlYjI0OWQxZGQ4Yjc3YSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.M2kBuMe7ZbS72EuRlCocqCzCo-NDPFOP0Ve-yzttVHE" alt="Fantasma Cartoonizado" width="200" heigth="100" style="border: 4px solid seablue; border-radius: 50%;"> 
    </div> 
    <p id="branco"><strong>ESPECTRO</strong> </p> 
   </header> 
