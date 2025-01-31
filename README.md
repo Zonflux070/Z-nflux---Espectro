@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!--DOCTYPE html-->
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
@@ -224,7 +224,7 @@ margin: 5px;
    <nav>
     <div class="logo">
       <div class="overlay"></div>
-      <img id="logflux" src="/Logotipo da Zônflux.jpg" alt="Zônflux">
+      <img id="logflux" src="playlistCropperBoomPlayer.jpg" alt="Zônflux">
     </div>
     <div class="nav-links">
       <div class="close">
@@ -260,7 +260,7 @@ margin: 5px;
     <a id="meio" href="#">Everso</a>
   </section>
   <section>
-    <img id="Imaesp" src="/Homem Aranha branco.jpeg" alt="Espectro">
+    <img id="Imaesp" src="3e9cc9b4-9f78-4884-ba76-288df1fa6a23.jpeg" alt="Espectro">
   </section>
   <section>
     <h2>Detalhes</h2>
@@ -274,10 +274,10 @@ margin: 5px;
     </p>
     <div class="sou">
       <a href="#">
-        <img id="tridente" src="/Ícone tridente preto.jpeg" alt="ícone de X-tron">
+        <img id="tridente" src="Blooming Trident, Serhii Tsymbal.jpeg" alt="ícone de X-tron">
       </a>
       <a href="#">
-        <img id="polvo" src="/Ícone polvo preto.jpeg" alt="ícone do Scott">
+        <img id="polvo" src="Aquatic Silhouette PNG Images, Octopus Logo Abstract Aggressive Aquatic, Insignia, Mascot, Creature PNG Image For Free Download.jpeg" alt="ícone do Scott">
       </a>
     </div>
   </section>
