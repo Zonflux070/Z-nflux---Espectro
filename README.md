@@ -72,7 +72,7 @@ footer{
    <h1 id="e">Zônflux - Espectro</h1>
   </div> 
    <div style="text-align: center;"> 
-    <img src="e731ba71-db85-487a-abb5-c73150500e24.jpeg" alt="Fantasma Cartoonizado" width="200" heigth="100" style="border: 4px solid seablue; border-radius: 50%;"> 
+    <img src="https://img.freepik.com/vetores-gratis/desenho-animado-fofo-fantasma-mostrando-a-lingua_138676-2969.jpg" alt" alt="Fantasma Cartoonizado" width="200" heigth="100" style="border: 4px solid seablue; border-radius: 50%;"> 
    </div> 
    <p id="branco"><strong>ESPECTRO</strong> </p> 
   </header> 
