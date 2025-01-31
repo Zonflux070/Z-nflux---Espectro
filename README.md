@@ -72,7 +72,7 @@ footer{
    <h1 id="e">Zônflux - Espectro</h1>
   </div> 
    <div style="text-align: center;"> 
-    <img src="https://github.com/user-attachments/assets/10566a05-c115-4dfc-b2db-e40f470de210" alt="Fantasma Cartoonizado" width="200" heigth="100" style="border: 4px solid seablue; border-radius: 50%;"> 
+    <img src="https://github.com/Zonflux070/Z-nflux---Espectro/issues/1#issue-2823826521" alt="Fantasma Cartoonizado" width="200" heigth="100" style="border: 4px solid seablue; border-radius: 50%;"> 
    </div> 
    <p id="branco"><strong>ESPECTRO</strong> </p> 
   </header> 
