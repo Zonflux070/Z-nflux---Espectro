@@ -1,0 +1,36 @@
+/* function toggleMenu() {
+    const menu = document.getElementById('menu');
+    if (menu.style.left === "0px") {
+        menu.style.left = "-60%";
+    } else {
+        menu.style.left = "0px";
+    }
+}
+function closeMenu() {
+  const body = document.getElementById('body');
+  if (menu.style.left === "-60px") {
+      menu.style.left = "0px";
+  }
+}  */
+function toggleMenu() {
+    const menu = document.getElementById('menu');
+    if (menu.style.left === "0px") {
+        menu.style.left = "-60%";
+        document.removeEventListener("click", closeMenuOnClickOutside);
+    } else {
+        menu.style.left = "0px";
+        setTimeout(() => {
+            document.addEventListener("click", closeMenuOnClickOutside);
+        }, 100);
+    }
+}
+
+function closeMenuOnClickOutside(event) {
+    const menu = document.getElementById('menu');
+    const menuIcon = document.querySelector(".menu-icon");
+
+    if (!menu.contains(event.target) && !menuIcon.contains(event.target)) {
+        menu.style.left = "-60%";
+        document.removeEventListener("click", closeMenuOnClickOutside);
+    }
+}

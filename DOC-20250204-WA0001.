@@ -1,0 +1,136 @@
+/* Estilos Gerais */
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+    padding: 0;
+    background: #f0f0f0;
+    color: #333;
+}
+
+/* Cabeçalho */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #004080;
+    padding: 15px;
+    color: white;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    border: 1px solid #FFFFFF;
+    border-radius: 30%;
+}
+
+.menu-icon {
+    font-size: 30px;
+    cursor: pointer;
+}
+
+/* Barra de Menu */
+.menu {
+    position: fixed;
+    top: 0;
+    left: -60%;
+    width: 60%;
+    height: 100%;
+    background: #000000CC;
+    padding-top: 50px;
+    transition: 0.3s;
+}
+
+.menu ul {
+    list-style: none;
+    padding: 0;
+}
+
+.menu li {
+    padding: 15px;
+    text-align: center;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 18px;
+}
+
+/* Corpo Principal */
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+}
+
+h1, h2, h3 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.descricao {
+  text-align: justify;
+}
+
+.detalhes {
+  text-align: left;
+}
+
+section {
+    width: 90%;
+    margin: 5px 5px;
+    padding: 10px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.imagem img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.icons img {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+}
+
+/* Rodapé */
+footer {
+    text-align: center;
+    background: #333;
+    color: #FFFFFF;
+    padding: 15px;
+}
+
+.perna ul {
+  list-style: none;
+  padding: 0;
+}
+
+.perna li {
+  padding: 15px;
+  text-align: center;
+}
+
+.perna a {
+  color: #FFFFFF;
+  font-size: 16px;
+}
+
+/* Responsividade */
+@media (min-width: 768px) {
+    main {
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    .menu {
+        width: 30%;
+        left: -30%;
+    }
+}
