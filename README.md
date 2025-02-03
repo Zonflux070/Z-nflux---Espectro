@@ -156,7 +156,7 @@ footer {
     <!-- Cabeçalho -->
     <header>
         <div>
-          <img class="logo" src="/Logotipo da Zônflux.jpg">
+          <img class="logo" src="playlistCropperBoomPlayer.jpg">
         </div>
         <div class="menu-icon" onclick="toggleMenu()">☰</div>
     </header>
@@ -173,7 +173,7 @@ footer {
 
         <!-- Segunda Seção -->
         <section class="imagem">
-            <img src="/Homem Aranha branco.jpeg" alt="Imagem do Espectro">
+            <img src="3e9cc9b4-9f78-4884-ba76-288df1fa6a23.jpeg" alt="Imagem do Espectro">
             <a href="#">Everso</a>
         </section>
 
@@ -184,8 +184,8 @@ footer {
             <p><strong>Habilidade:<br /></strong> Inatingibilidade</p><br />
             <p><strong>Localização:<br /></strong> Telethra</p>
             <div class="icons">
-                <a href="#"><img src="/Ícone tridente preto.jpeg" alt="Ícone 1"></a>
-                <a href="#"><img src="/Ícone polvo preto.jpeg" alt="Ícone 2"></a>
+                <a href="#"><img src="/Blooming Trident, Serhii Tsymbal.jpeg" alt="Ícone 1"></a>
+                <a href="#"><img src="Aquatic Silhouette PNG Images, Octopus Logo Abstract Aggressive Aquatic, Insignia, Mascot, Creature PNG Image For Free Download.jpeg" alt="Ícone 2"></a>
             </div>
         </section>
     </main>
