@@ -10,7 +10,7 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 0;
     padding: 0;
-    background: #f0f0f0;
+    background: #FFFFFF;
     color: #333;
 }
 
@@ -70,7 +70,8 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 5px;
+    margin: 0px;
+    padding: 0px;
 }
 
 h1, h2, h3 {
@@ -87,10 +88,9 @@ h1, h2, h3 {
 
 section {
     width: 90%;
-    margin: 5px 5px;
+    margin: 0px;
     padding: 10px;
     background: #FFFFFF;
-    border-radius: 10px;
     text-align: center;
 }
 
