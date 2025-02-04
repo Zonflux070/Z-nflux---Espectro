@@ -20,6 +20,8 @@ header {
     justify-content: space-between;
     align-items: center;
     background: #004080;
+    width: 100%;
+    margin: 0px;
     padding: 15px;
     color: white;
 }
@@ -87,7 +89,7 @@ h1, h2, h3 {
 }
 
 section {
-    width: 90%;
+    width: 100%;
     margin: 0px;
     padding: 10px;
     background: #FFFFFF;
@@ -110,6 +112,7 @@ section {
 footer {
     text-align: center;
     background: #333;
+    width: 100%;
     color: #FFFFFF;
     padding: 15px;
 }
