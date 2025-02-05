@@ -72,6 +72,7 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 100%;
     margin: 0px;
     padding: 0px;
 }
@@ -177,7 +178,7 @@ footer {
         <!-- Segunda Seção -->
         <section class="imagem">
             <img src="3e9cc9b4-9f78-4884-ba76-288df1fa6a23.jpeg" alt="Imagem do Espectro">
-            <a href="#">Everso</a>
+            <a href="https://zonflux070.github.io/Perfil-do-Espectro/">Everso</a>
         </section>
 
         <!-- Terceira Seção -->
