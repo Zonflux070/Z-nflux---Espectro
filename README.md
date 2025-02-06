@@ -22,7 +22,7 @@ header {
     background: #004080;
     width: 100%;
     margin: 0px;
-    padding: 15px;
+    padding: 0px;
     color: white;
 }
 
@@ -92,7 +92,7 @@ h1, h2, h3 {
 section {
     width: 100%;
     margin: 0px;
-    padding: 10px;
+    padding: 0px;
     background: #FFFFFF;
     text-align: center;
 }
@@ -111,11 +111,14 @@ section {
 
 /* Rodapé */
 footer {
+    font-family: monospace;
+    font-size: 10px;
     text-align: center;
     background: #333;
     width: 100%;
     color: #FFFFFF;
-    padding: 15px;
+    margin: 0px;
+    padding: 0px;
 }
 
 .perna ul {
@@ -199,7 +202,7 @@ footer {
         <p>A você, visitante, nosso mais sincero agradecimento por embarcar nesta jornada fascinante sobre o Espectro. Sua curiosidade e dedicação nos motivam a continuar explorando os mistérios deste universo tão único. Esperamos que cada secção lida tenha despertado sua imaginação e lhe oferecido momentos de reflexão e inspiração.</p>
         <nav class="perna">
         <ul>
-          <li><a href="#">Telethra</a></li>
+          <li><a href="https://zonflux070.github.io/Telethra/">Telethra</a></li>
           <li><a href="#">Emu</a></li>
         </ul>
         </nav>
