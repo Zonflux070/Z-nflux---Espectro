@@ -203,7 +203,7 @@ footer {
         <nav class="perna">
         <ul>
           <li><a href="https://zonflux070.github.io/Telethra/">Telethra</a></li>
-          <li><a href="#">Emu</a></li>
+          <li><a href="https://zonflux070.github.io/Emu/">Emu</a></li>
         </ul>
         </nav>
         <p>© 2025 Universo Zônflux. Todos os direitos reservados.</p>
