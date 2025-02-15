@@ -191,7 +191,7 @@ footer {
             <p><strong>Habilidade:<br /></strong> Inatingibilidade</p><br />
             <p><strong>Localização:<br /></strong> Telethra</p>
             <div class="icons">
-                <a href="#"><img src="Blooming Trident, Serhii Tsymbal.jpeg" alt="Ícone 1"></a>
+                <a href="https://zonflux070.github.io/X-tron/"><img src="Blooming Trident, Serhii Tsymbal.jpeg" alt="Ícone 1"></a>
                 <a href="https://zonflux070.github.io/Mikasa-mi-Nzolu-/"><img src="Aquatic Silhouette PNG Images, Octopus Logo Abstract Aggressive Aquatic, Insignia, Mascot, Creature PNG Image For Free Download.jpeg" alt="Ícone 2"></a>
             </div>
         </section>
